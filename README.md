@@ -1,3 +1,10 @@
+
+
+
+
+
+
+
 <!DOCTYPE html>
 <html
   lang="en"
@@ -33,7 +40,7 @@
 
 
   <script type="application/json" id="client-env">{"locale":"en","featureFlags":["alternate_user_config_repo","api_insights_show_missing_data_banner","appearance_settings","codespaces_prebuild_region_target_update","contact_requests_implicit_opt_in","contentful_lp_footnotes","copilot_chat_attach_multiple_images","copilot_chat_autocomplete","copilot_chat_custom_instructions","copilot_chat_repo_custom_instructions_preview","copilot_chat_vision_in_claude","copilot_chat_wholearea_dd","copilot_custom_copilots_feature_preview","copilot_custom_copilots_org_owned","copilot_custom_copilots_visibility","copilot_duplicate_thread","copilot_f2p_marketing_cta","copilot_free_to_paid_telem","copilot_ftp_settings_upgrade","copilot_ftp_upgrade_to_pro_from_models","copilot_header_button_to_immersive","copilot_immersive_draft_issue_template_required","copilot_immersive_issue_preview","copilot_new_conversation_starters","copilot_new_immersive_references_ui","copilot_no_floating_button","copilot_read_shared_conversation","copilot_showcase_icebreakers","copilot_task_oriented_assistive_prompts","copilot_topics_as_references","copilot_workbench_iterate_panel","copilot_workbench_preview_analytics","copilot_workbench_refresh_on_wsod","copilot_workbench_user_limits","direct_to_salesforce","dotcom_chat_client_side_skills","ghost_pilot_confidence_truncation_25","ghost_pilot_confidence_truncation_40","insert_before_patch","issues_react_blur_item_picker_on_close","issues_react_create_milestone","issues_react_prohibit_title_fallback","issues_react_remove_placeholders","lifecycle_label_name_updates","link_contact_sales_swp_marketo","marketing_pages_search_explore_provider","memex_mwl_filter_field_delimiter","nonreporting_relay_graphql_status_codes","primer_primitives_experimental","primer_react_css_modules_ga","primer_react_select_panel_with_modern_action_list","remove_child_patch","sample_network_conn_type","send_app_type_header","site_homepage_contentful","site_msbuild_hide_integrations","site_msbuild_launch","site_msbuild_webgl_hero","spark_commit_on_default_branch","swp_enterprise_contact_form","use_copilot_avatar","use_paginated_repo_picker_cost_center_form","viewscreen_sandbox"]}</script>
-<script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/wp-runtime-e74be0503353.js" defer="defer"></script>
+<script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/wp-runtime-7d4e3e759be5.js" defer="defer"></script>
 <script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_oddbird_popover-polyfill_dist_popover-fn_js-81211bd82278.js" defer="defer"></script>
 <script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_mini-throttle_dist_index_js-node_modules_stacktrace-parser_dist_s-1d3d52-4be8ffe9a34a.js" defer="defer"></script>
 <script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/ui_packages_failbot_failbot_ts-b653dbc4ad7c.js" defer="defer"></script>
@@ -74,7 +81,7 @@
 <script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_mini-throttle_dist_index_js-node_modules_github_catalyst_lib_inde-dbbea9-4adcaf6c1c40.js" defer="defer"></script>
 <script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/code-menu-c4dff43227ac.js" defer="defer"></script>
 <script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/primer-react-936143662a11.js" defer="defer"></script>
-<script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/react-core-f681764658c8.js" defer="defer"></script>
+<script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/react-core-85c257e13cfe.js" defer="defer"></script>
 <script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/react-lib-80430c87778a.js" defer="defer"></script>
 <script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/octicons-react-cf2f2ab8dab4.js" defer="defer"></script>
 <script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_emotion_is-prop-valid_dist_emotion-is-prop-valid_esm_js-node_modules_emo-b1c483-30bc59af3a76.js" defer="defer"></script>
@@ -82,7 +89,7 @@
 <script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_tanstack_query-core_build_modern_queryObserver_js-node_modules_tanstack_-defd52-9743ca933872.js" defer="defer"></script>
 <script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/ui_packages_agent-sessions_utils_elapsed-time-util_ts-ui_packages_agent-sessions_hooks_useSes-bd1a31-1a55cb99615b.js" defer="defer"></script>
 <script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/copilot-coding-agent-status-3c60d66c5153.js" defer="defer"></script>
-<link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/primer-react.d7f0118b186096768b3b.module.css" />
+<link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/primer-react.f322b041d5ce5828efd8.module.css" />
 <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/copilot-coding-agent-status.32796c3e0ecdbdaa8ce6.module.css" />
   
   <script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/notifications-subscriptions-menu-1feab9869050.js" defer="defer"></script>
@@ -91,23 +98,23 @@
   <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/notifications-subscriptions-menu.e5e6e593370c808590a5.module.css" />
 
 
-  <title>GitHub - mangixmd23/MANGI-XMD-S24</title>
+  <title>GitHub - bmb200/B.M.B-TECH</title>
 
 
 
   <meta name="route-pattern" content="/:user_id/:repository" data-turbo-transient>
   <meta name="route-controller" content="files" data-turbo-transient>
   <meta name="route-action" content="disambiguate" data-turbo-transient>
-  <meta name="fetch-nonce" content="v2:a8881742-6b3d-0f5b-9538-efb79d485dfd">
+  <meta name="fetch-nonce" content="v2:8c443995-1c8f-b901-9fb9-d35b24648412">
 
     
   <meta name="current-catalog-service-hash" content="f3abb0cc802f3d7b95fc8762b94bdcb13bf39634c40c357301c4aa1d67a256fb">
 
 
-  <meta name="request-id" content="6BAF:277866:1736892:17C4491:6843314C" data-pjax-transient="true"/><meta name="html-safe-nonce" content="5648aafbec2712db87909b448494adf2f1b099c97ce818305af1b40202e46ed1" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiI2QkFGOjI3Nzg2NjoxNzM2ODkyOjE3QzQ0OTE6Njg0MzMxNEMiLCJ2aXNpdG9yX2lkIjoiODc4OTMyMTA3NjAwNzE4Njc2NCIsInJlZ2lvbl9lZGdlIjoiZnJhIiwicmVnaW9uX3JlbmRlciI6ImZyYSJ9" data-pjax-transient="true"/><meta name="visitor-hmac" content="d34d4de62975dfee4c5f50d0d31f6abac3ef7cb2412d769f8a238516850db209" data-pjax-transient="true"/>
+  <meta name="request-id" content="3784:44529:1B37B92:1BE3CDF:68433FD0" data-pjax-transient="true"/><meta name="html-safe-nonce" content="64a246123884cc666514e88235a46bb40526bc75c0c0d676c7d34882b77cf7e7" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiIzNzg0OjQ0NTI5OjFCMzdCOTI6MUJFM0NERjo2ODQzM0ZEMCIsInZpc2l0b3JfaWQiOiIyMjIwNTE2MjE4NTQzMjI2NzE3IiwicmVnaW9uX2VkZ2UiOiJmcmEiLCJyZWdpb25fcmVuZGVyIjoiZnJhIn0=" data-pjax-transient="true"/><meta name="visitor-hmac" content="0734d0b5b803c8683d9bc41f5afbbd4ba9484bcc06eed7d4be8da156f1aeb39f" data-pjax-transient="true"/>
 
 
-    <meta name="hovercard-subject-tag" content="repository:990100632" data-turbo-transient>
+    <meta name="hovercard-subject-tag" content="repository:981686057" data-turbo-transient>
 
 
   <meta name="github-keyboard-shortcuts" content="repository,copilot" data-turbo-transient="true" />
@@ -120,7 +127,7 @@
 
 <meta name="octolytics-url" content="https://collector.github.com/github/collect" />
 
-  <meta name="analytics-location" content="/&lt;user-name&gt;/&lt;repo-name&gt;" data-turbo-transient="true" />
+  <meta name="analytics-location" content="/<user-name>/<repo-name>" data-turbo-transient="true" />
 
   
 
@@ -135,4 +142,4 @@
 
     
 
-      <meta name="description" content="Contribute to loftxmd23/MANGI-XMD-S24 development by c
+      <meta name="description" content="Contribute to bmb200/B.M.B-TECH development by creating an account on G
